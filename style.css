@@ -155,14 +155,16 @@ li a:hover:not(.active) {
     background: white;
     height: 500px;
     padding: 100px 100px;
+    text-align: center;
     
 }
 
 #pcontact {
     color: #383838;
     width: 100%;
-    text-align: center;
+
     font-family: Raleway;
+
     
 }
 
@@ -439,5 +441,3 @@ li a.active {
 
 /*LOADING SCREEN END----------------------------------------------------------------------------
 ----------------------------------------------------------------------------*/
-
-
