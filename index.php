@@ -24,7 +24,7 @@
 			<li><img src="PATrans.png" alt="Project Anything" href="#home"></li>
  			<li><a href="#projectanything">Project Anything</a></li>
  			<li><a href="#portfolio">Portfolio</a></li>
-  			<li><a href="#investing">Investing</a></li>
+  			<li><a href="#investing">Sponsor Us</a></li>
   			<li><a href="#contact">Contact Us</a></li>
 		</ul>
 		
@@ -54,11 +54,25 @@
         </div>
         
         <div id="investing">
-            <p id="pinvesting"><font size="7em">Investing.</font></p>
+            <p id="pinvesting"><font size="7em">To you, the Sponsors.</font></p>
         </div>
         
         <div id="contact">
             <p id="pcontact"><font size="7em">This is us.</font></p>
+            
+            <div id="profile">
+                <p id="pcontact"><font size="5em">Felix Orakwue.</font></p>
+                
+            </div>
+            <div id="profile">
+                <p id="pcontact"><font size="5em">Andrew Cao.</font></p>
+                
+            </div>
+            <div id="profile">
+                <p id="pcontact"><font size="5em">Kerry Meng-lin.</font></p>
+                
+            </div>
+            
         </div>
         
         
@@ -67,7 +81,7 @@
             <center>
             <p id="pend">Project Anything ©2018</p>
             <p id="pendother"><a href="mailto:projectanythingchs@gmail.com?Subject=Email%20From%20Website" target="_top">Contact Us</a></p> 
-            <p id="pendother"><a href="Investor Information.pdf" download>Investor Document</a></p>
+            <p id="pendother"><a href="Sponsor Information.pdf" download>Sponsor Us</a></p>
             <p id="pendother"><a href="mailto:jobartucz@isd535.org?Subject=Email%20From%20Project%20Anything%20Website" target="_top">Advisor Contact</a></p>
             </center>
         </div>
